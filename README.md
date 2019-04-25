@@ -1,2 +1,2 @@
-# Poll_App_Python
+# PollApp.Python
 Simple Poll App in Python.
